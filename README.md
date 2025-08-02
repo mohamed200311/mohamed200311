@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/mohamed-elsayed-ibraheem-366a72377" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-elsayed-ibraheem-366a72377" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mohamed_200311" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsayed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://web.facebook.com/mohamed.sdaye" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsayed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
